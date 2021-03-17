@@ -1,3 +1,3 @@
-# Django Project Template
+# Django Polls API
 
-Django project template
+A simple polls API with Django.
