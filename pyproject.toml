@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "pollsapi
+name = "project_name"
 version = "0.1.0"
-description = "A simple polls api with Django"
+description = "Django project template"
 authors = ["Louis Agyapong <agyapong.louis@gmail.com>"]
 
 [tool.poetry.dependencies]
