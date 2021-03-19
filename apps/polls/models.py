@@ -37,3 +37,6 @@ class Vote(models.Model):
         verbose_name = _("vote")
         verbose_name_plural = _("votes")
         unique_together = ("poll", "voted_by")
+
+    def __str__(self) -> str:
+        return str(self.choice)
